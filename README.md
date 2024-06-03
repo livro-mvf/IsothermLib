@@ -1,1 +1,2 @@
-# IsothermLib
+# Isotherm
+ Isotherm Functions
