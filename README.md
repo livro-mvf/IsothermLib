@@ -40,7 +40,7 @@ Compile o projeto usando o Make. Este comando compila o código-fonte e gera a b
 ```sh
 make
 ```
-Se desejar instalar a biblioteca no sistema, você pode executar o comando make install. Você pode precisar de permissões de superusuário para esta etapa.
+Se desejar instalar a biblioteca no sistema, você poderá executar o comando make install. Você pode precisar de permissões de superusuário para esta etapa.
 ```sh
 sudo make install
 ```
