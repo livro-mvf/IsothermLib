@@ -1,2 +1,0 @@
-add_subdirectory(OneParameter)
-add_subdirectory(TwoParameters)

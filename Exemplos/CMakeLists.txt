@@ -50,7 +50,7 @@ foreach(example ${ALL_EXAMPLES})
 endforeach()
 
 # Adiciona o alvo customizado para rodar todos os exemplos
-add_custom_target(run_all_examples_target
+add_custom_target(run_all_examples
     COMMAND ${CMAKE_COMMAND} --build . --target run_examples
     DEPENDS run_examples
     COMMENT "Compilando e rodando todos os exemplos"
